@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app with NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeabdol/weather-app.git"
+  },
+  "author": "moeabdol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moeabdol/weather-app/issues"
+  },
+  "homepage": "https://github.com/moeabdol/weather-app#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0"
+  }
+}
